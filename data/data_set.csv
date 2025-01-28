@@ -1,0 +1,10 @@
+Text,Sentiment
+"I love this movie, it is amazing!",positive
+"This is the worst movie I have ever seen.",negative
+"What a fantastic experience!",positive
+"I hate the service here, so bad.",negative
+"The food was great, I will come back!",positive
+"Absolutely horrible, do not waste your time.",negative
+"I am so happy with my purchase!",positive
+"Terrible, never going to buy again.",negative
+"I love you.",positive

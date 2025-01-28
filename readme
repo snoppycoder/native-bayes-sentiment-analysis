@@ -1,0 +1,3 @@
+# use pandas for creating table from any ext like json, csv file you name it
+# steemer will remove the affix from each column 
+# careful of generator methods which create obj on the fly
